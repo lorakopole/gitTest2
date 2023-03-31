@@ -1,3 +1,3 @@
 # gitTest2
 ## test 
-'/code'
+'code'
